@@ -1,5 +1,9 @@
 # LeanCDCL: Machine-Checked Formalization of CDCL SAT Solver Soundness in Lean 4
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23439278.svg)](https://doi.org/10.5281/zenodo.23439278)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Lean 4](https://img.shields.io/badge/Lean_4-v4.14.0-brightgreen.svg)](lean-toolchain)
+
 This project provides a clean, machine-checked formalization of the fundamental algorithms powering modern Conflict-Driven Clause Learning (CDCL) Boolean Satisfiability (SAT) solvers within the Lean 4 interactive theorem prover.
 
 ---

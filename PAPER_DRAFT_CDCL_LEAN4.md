@@ -1,6 +1,7 @@
 # Machine-Checked Formalization of Conflict-Driven Clause Learning in Lean 4
 
 **Author:** Escanor AI Labs (Frontier Automated Reasoning Group)  
+**Permanent DOI:** [https://doi.org/10.5281/zenodo.23439278](https://doi.org/10.5281/zenodo.23439278)  
 **Target Venues:** *International Conference on Interactive Theorem Proving (ITP)* / *Certified Programs and Proofs (CPP)* / *Theory and Applications of Satisfiability Testing (SAT)* / *Journal of Automated Reasoning (JAR)*
 
 ---
